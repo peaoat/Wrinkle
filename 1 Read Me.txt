@@ -1,0 +1,2 @@
+This repository is for storing and referencing Wrinkle visual artwork.
+Simply reference the image in this repository in order to use that image on the Official Wrinkle Wiki.
